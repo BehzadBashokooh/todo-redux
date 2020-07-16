@@ -1,4 +1,4 @@
-import {ADD_TODO, REMOVE_TODO, TOGGLE_TODO, SET_VISIBILITY_FILTER} from '../actionsTypes/actionTypes.js'
+import {ADD_TODO, REMOVE_TODO, TOGGLE_TODO, SET_VISIBILITY_FILTER} from '../actionTypes/actionTypes.js'
 
 let nextTodoId = 0
 export const addTodo = text => ({
