@@ -19,3 +19,7 @@ const Todo = ({ onClick, completed, text }) => (
   }
   
   export default Todo
+
+  const Todo = ({ onClick, completed, text}) => (
+    
+  )
